@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T09:03:48.524Z",
+  "generatedAt": "2026-09-05T12:50:41.172Z",
   "latest": {
-    "version": "1.3.2",
-    "released": "2026-08-24",
+    "version": "1.3.3",
+    "released": "2026-09-05",
     "notes": "",
     "downloads": {
       "mac-arm64": {
-        "file": "LTRlinx-Mac-AppleSilicon-1.3.2.tar.gz",
-        "url": "https://github.com/AYAtriestocode/LTRLinxRemix-releases/releases/download/v1.3.2/LTRlinx-Mac-AppleSilicon-1.3.2.tar.gz",
-        "size": 21020918,
-        "sha256": "cedfa8b7e9d8952fbe769244e592e9247ae5f1618bd5e4daf6637b4bc4c5ee22"
+        "file": "LTRlinx-Mac-AppleSilicon-1.3.3.tar.gz",
+        "url": "https://github.com/AYAtriestocode/LTRLinxRemix-releases/releases/download/v1.3.3/LTRlinx-Mac-AppleSilicon-1.3.3.tar.gz",
+        "size": 21044763,
+        "sha256": "854c7f980e401f15e993c69f2ff902c963672421274af8be1e7d33aaad9da939"
       },
       "win-x64": {
-        "file": "LTRlinx-Windows-x64-1.3.2.exe",
-        "url": "https://github.com/AYAtriestocode/LTRLinxRemix-releases/releases/download/v1.3.2/LTRlinx-Windows-x64-1.3.2.exe",
-        "size": 42226951,
-        "sha256": "5188805edb475b8cd6e156d7c96f5a90cad5cc59753ad6c5367cd8c12c27e630"
+        "file": "LTRlinx-Windows-x64-1.3.3.exe",
+        "url": "https://github.com/AYAtriestocode/LTRLinxRemix-releases/releases/download/v1.3.3/LTRlinx-Windows-x64-1.3.3.exe",
+        "size": 42249726,
+        "sha256": "053d95c234458fc6fdc307200cdaaba3db89b516059ab786046f470a41c8c2a3"
       }
     }
   },
